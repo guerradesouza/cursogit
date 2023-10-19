@@ -8,3 +8,8 @@ cursogit pelo site
 5 - git add *
 6 - git commit -m "Primeiro Commit"
 7 - git push
+
+Obs: Cada vez que quiser atualizar tem que dar o:
+git add *
+git commit -m "Nome do commit"
+git push
