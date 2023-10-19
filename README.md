@@ -1,7 +1,7 @@
 # cursogit
 cursogit pelo site
 
-11 - Criar novo repositório no github
+1 - Criar novo repositório no github
 2 - git clone linkDoClone.git
 3 - Entrar no repositório do projeto:
 4 - git init
@@ -23,3 +23,6 @@ git checkout nova-branch
 Depois de commitar é possível visualizar os eventos com o 
 git log 
 
+Para realizar o merge entre as branches é preciso estar na branch master.
+
+git merge nova-branch
